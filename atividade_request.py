@@ -1,6 +1,7 @@
 
 import requests
 
+
 nome_cep_integrantes = {
   "Rodrigo":"93800156",
   "Julia":"03206020",
